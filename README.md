@@ -9,7 +9,7 @@ A fun and interactive Rock-Paper-Scissors game built with HTML, CSS, and JavaScr
 - Simple and intuitive interface
 
 ## 🚀 Play Now
-Play the game here: [https://iam269.github.io/Rock-Paper-Scissor-Game/](https://iam269.github.io/Rock-Paper-Scissor-Game/)
+Play the game here: [https://itsiamdev.github.io/Rock-Paper-Scissor-Game/](https://itsiamdev.github.io/Rock-Paper-Scissor-Game/)
 
 ## 🛠️ Technologies Used
 - HTML5
